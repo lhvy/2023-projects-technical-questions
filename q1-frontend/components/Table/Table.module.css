@@ -22,11 +22,11 @@
 .update {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .date {
     color: blue;
-    margin-left: auto;
     font-size: x-small;
     align-self: flex-end;
 }
