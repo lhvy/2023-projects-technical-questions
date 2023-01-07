@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "start": "ts-node roundupper_100.ts" 
+    "start": "ts-node roundupper_100.ts"
   },
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2"
   },
   "devDependencies": {
